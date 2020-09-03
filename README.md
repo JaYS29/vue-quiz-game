@@ -1,4 +1,4 @@
-# quiz
+# Quiz Game on VueJs
 
 ## Project setup
 ```
